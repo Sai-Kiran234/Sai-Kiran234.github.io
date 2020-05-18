@@ -1,0 +1,17 @@
+div{
+color:blue;
+}
+img{
+display:block;
+width:50%;
+height:auto;
+margin:0 auto;
+float:left;
+}   
+
+a{
+text-decoration:none;
+}
+a:hover{
+background-color:#ffffff;
+}
